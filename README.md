@@ -1,3 +1,4 @@
+https://jotkaur-6284.github.io/quiz/
 # Quiz App
 
 ## Overview
@@ -30,4 +31,5 @@ This is a simple web-based interactive quiz app where users answer multiple-choi
 - Timer automatically ends quiz if time runs out.
 - Result appears with a smooth scaling and fading animation.
 - UI is responsive and user-friendly.
+
 
